@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/antryabov/meet-landing-page)
-- Live Site URL: [Add live site URL here](https://antryabov.github.io/meet-landing-page)
+- Solution URL: [solution](https://github.com/antryabov/meet-landing-page)
+- Live Site URL: [live site](https://antryabov.github.io/meet-landing-page)
 
 ## My process
 
