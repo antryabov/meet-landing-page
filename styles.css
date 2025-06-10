@@ -161,9 +161,29 @@ h2 {
 .cyan-button {
   background-color: var(--cyan-600);
 }
+@media (any-hover: hover) {
+  .cyan-button:hover {
+    background-color: #71c0d4;
+  }
+}
+@media (any-hover: none) {
+  .cyan-button:active {
+    background-color: #71c0d4;
+  }
+}
 
 .purple-button {
   background-color: var(--purple-600);
+}
+@media (any-hover: hover) {
+  .purple-button:hover {
+    background-color: #b18bdd;
+  }
+}
+@media (any-hover: none) {
+  .purple-button:active {
+    background-color: #b18bdd;
+  }
 }
 
 .hero {
